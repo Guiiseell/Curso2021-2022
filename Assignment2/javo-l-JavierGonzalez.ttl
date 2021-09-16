@@ -1,0 +1,20 @@
+@prefix b:<http://www.oeg-upm.net/ontologies/Assignment2/> .
+@prefix as2: <http://www.oeg-upm.org/ontologies/Assignment2#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+b:Class01
+  as2:includes b:Sensor029;
+  as2:includes b:Computer101 .
+
+b:Sensor029
+  as2:hasMeasurement b:Measurement8401 .
+
+b:Computer101
+  as2:hasOwner b:User10A .
+
+b:Measurement8401
+  as2:hasTemperatura "29"^^xsd:integer ;
+  as2:atTime "2010-06-12T12:00:12"^^xsd:dateTime .
+
+b:User10A
+  as2:hasName "Pedro"^^xsd:string .
