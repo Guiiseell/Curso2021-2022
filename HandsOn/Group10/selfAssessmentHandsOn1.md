@@ -23,4 +23,3 @@
 
 ## Comments on the self-assessment
 The readme is yet to be completed as well as a proper and completed dataset in order to allow us to complete our project. 
-,,,
