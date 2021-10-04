@@ -22,4 +22,5 @@
 - [x] Includes a description of the application user interface
 
 ## Comments on the self-assessment
-The read me is yet to be completed as well as a proper and completed dataset in order to allow us to complete our project. 
+The readme is yet to be completed as well as a proper and completed dataset in order to allow us to complete our project. 
+,,,
