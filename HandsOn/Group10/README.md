@@ -1,5 +1,8 @@
-# Group10
-Javier Fernando Gonzalez Ramirez - javo-l
-Guisell Eliana Mori De La Cruz - guiiseell
-Ruth Verónica Ocampo Prado - rvocampo
-Stephanny Godoy Vega - s-godoy
+# Group 10
+
+| Members | Github User |
+| :------ | :------: |
+| Godoy Vega, Stephanny | s-godoy |
+| Gonzalez Ramírez, Javier Fernando | javo-l |
+| Mori De La Cruz, Guisell Eliana | guiiseell |
+| Ocampo Prado, Ruth Verónica | rvocampo |
